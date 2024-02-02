@@ -55,13 +55,3 @@ I'm Matt, a Kiwi software engineer.
 ## 🌐 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/matthew-mcintyre)
-- [Twitter](https://twitter.com/mattymac2)
-
-## 🚀 Hobbies & Interests
-
-- 🌍 Travel
-- 🎮 Console modding
-- 🔒 Lockpicking
-- 🌐 Web3
-- ⛓️ Blockchain
-- 🚗 Cars
