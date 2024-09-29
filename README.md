@@ -42,7 +42,7 @@ I'm Matt, a Kiwi software engineer.
 - [LinkedIn](https://www.linkedin.com/in/matthew-mcintyre)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
@@ -111,7 +111,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 00:25:05 UTC
+ Last Updated on 29/09/2024 00:27:39 UTC
 <!--END_SECTION:waka-->
 
 
