@@ -44,7 +44,7 @@ I'm Matt, a Kiwi software engineer.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-35.6%20million%20lines%20of%20code-blue)
 
@@ -52,13 +52,13 @@ I'm Matt, a Kiwi software engineer.
 
 > 📦 12.1 kB Used in GitHub's Storage 
  > 
-> 🏆 1,045 Contributions in the Year 2024
+> 🏆 1,046 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -87,17 +87,17 @@ Sunday                   1145 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-TypeScript               5 hrs 35 mins       ████████████████████░░░░░   78.48 % 
-JSON                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Solidity                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TypeScript               3 hrs 50 mins       ██████████████████░░░░░░░   73.76 % 
+JSON                     40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Solidity                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +111,7 @@ HTML                     1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 09/10/2024 00:25:51 UTC
+ Last Updated on 10/10/2024 00:25:13 UTC
 <!--END_SECTION:waka-->
 
 
