@@ -87,14 +87,13 @@ Sunday                   1320 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Pacific/Auckland
 
 💬 Programming Languages: 
-JSON                     13 mins             ███████████████████░░░░░░   74.84 % 
-TypeScript               4 mins              ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +107,7 @@ JavaScript               1 repo              █████░░░░░░�
 
 
 
- Last Updated on 10/12/2024 00:28:47 UTC
+ Last Updated on 11/12/2024 00:28:26 UTC
 <!--END_SECTION:waka-->
 
 
